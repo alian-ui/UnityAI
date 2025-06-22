@@ -347,7 +347,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d7a1236096fd54af485753f7a2e538c5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  modelAsset: {fileID: 5022602860645237092, guid: 1c297cbf54d224e4aa5c6ab03f496b8d, type: 3}
+  modelAsset: {fileID: 5022602860645237092, guid: f1244a78986859c4ca3d3d65010d4fab, type: 3}
   phonemeAsset: {fileID: 4900000, guid: 0f987eead726f49a0a4dd1f4a198725d, type: 3}
   inputText: Once upon a time, there lived a girl called Alice. She lived in a house
     in the woods.
