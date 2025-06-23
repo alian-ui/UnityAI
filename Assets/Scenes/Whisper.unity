@@ -347,10 +347,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   audioClip: {fileID: 8300000, guid: b80401988dbca4f4bbe5b9b839c5910d, type: 3}
-  audioDecoder1: {fileID: 5022602860645237092, guid: 02c9a8e1d2851314d8784362f56a8869, type: 3}
-  audioDecoder2: {fileID: 5022602860645237092, guid: 1a81252bbba68da4098e79d575a0fc7b, type: 3}
-  audioEncoder: {fileID: 5022602860645237092, guid: f26d2a08b56a0684888778be56cd9763, type: 3}
-  logMelSpectro: {fileID: 5022602860645237092, guid: 5a08a0cd855e9fc4ea3b19982c94fb8a, type: 3}
+  audioDecoder1: {fileID: 5022602860645237092, guid: 4812769577d8cd74686d6349c8b98911, type: 3}
+  audioDecoder2: {fileID: 5022602860645237092, guid: dfeb35341eb35b34799a4c80e911b688, type: 3}
+  audioEncoder: {fileID: 5022602860645237092, guid: 712d361c66b3f1b41905cdd2d3007fd0, type: 3}
+  logMelSpectro: {fileID: 5022602860645237092, guid: b2968acec66f69248844508f779f94c5, type: 3}
   vocabAsset: {fileID: 4900000, guid: 7fa5185bedd3443819d5ecceab7da43f, type: 3}
 --- !u!114 &1772981882
 MonoBehaviour:

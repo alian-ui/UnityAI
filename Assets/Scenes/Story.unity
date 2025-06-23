@@ -390,7 +390,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 716a3ca0ea3de4c8b9673f73036143db, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  modelAsset: {fileID: 5022602860645237092, guid: 9a9aa02e8b1d2f9499e0cffaf15d45e1, type: 3}
+  modelAsset: {fileID: 5022602860645237092, guid: ae3ea4a9974abf14ea252f93a2a296c1, type: 3}
   vocabAsset: {fileID: 4900000, guid: eeba22f4161da488ba4ad34cf7e1d149, type: 3}
   mergesAsset: {fileID: 4900000, guid: d6a4f17f69dbb49ecb9f2f442c90f5cd, type: 3}
 --- !u!1660057539 &9223372036854775807

@@ -252,8 +252,8 @@ GameObject:
   - component: {fileID: 1248307253}
   - component: {fileID: 1248307252}
   - component: {fileID: 1248307256}
-  - component: {fileID: 1248307255}
   - component: {fileID: 1248307257}
+  - component: {fileID: 1248307258}
   m_Layer: 0
   m_Name: Main Camera
   m_TagString: MainCamera
@@ -335,22 +335,6 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &1248307255
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1248307251}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: d7a1236096fd54af485753f7a2e538c5, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  modelAsset: {fileID: 5022602860645237092, guid: f1244a78986859c4ca3d3d65010d4fab, type: 3}
-  phonemeAsset: {fileID: 4900000, guid: 0f987eead726f49a0a4dd1f4a198725d, type: 3}
-  inputText: Once upon a time, there lived a girl called Alice. She lived in a house
-    in the woods.
 --- !u!114 &1248307256
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -492,6 +476,22 @@ AudioSource:
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 4
+--- !u!114 &1248307258
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1248307251}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d7a1236096fd54af485753f7a2e538c5, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  modelAsset: {fileID: 5022602860645237092, guid: e86af3feb1db0534e93111010620d6a6, type: 3}
+  phonemeAsset: {fileID: 4900000, guid: 0f987eead726f49a0a4dd1f4a198725d, type: 3}
+  inputText: Once upon a time, there lived a girl called Alice. She lived in a house
+    in the woods.
 --- !u!1660057539 &9223372036854775807
 SceneRoots:
   m_ObjectHideFlags: 0
