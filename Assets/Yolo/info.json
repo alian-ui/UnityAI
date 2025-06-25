@@ -1,0 +1,21 @@
+{
+    "code": [
+        "RunYOLO.cs"
+    ],
+    "models": [
+        "models/yolov8n.onnx",
+        "models/yolov8s.onnx",
+        "models/yolov9t.onnx",
+        "models/yolov9s.onnx",
+        "models/yolo11n.onnx",
+        "models/yolo11s.onnx",
+        "models/yolo12n.onnx",
+        "models/yolo12s.onnx"
+    ],
+    "data": [
+        "data/classes.txt"
+    ],
+    "version": [
+        "2.2.0"
+    ]
+}

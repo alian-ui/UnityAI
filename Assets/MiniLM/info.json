@@ -1,0 +1,14 @@
+{
+    "code": [
+      "RunMiniLM.cs"
+    ],
+    "models": [
+        "models/MiniLMv6.onnx"
+    ],
+    "data": [
+        "data/vocab.txt"
+    ],
+    "version": [
+        "2.2.0"
+    ]
+}
