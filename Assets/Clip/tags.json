@@ -1,0 +1,24 @@
+{
+  "tags": [
+    {"en": "cat", "ja": "猫"},
+    {"en": "dog", "ja": "犬"},
+    {"en": "person", "ja": "人"},
+    {"en": "car", "ja": "車"},
+    {"en": "tree", "ja": "木"},
+    {"en": "flower", "ja": "花"},
+    {"en": "food", "ja": "食べ物"},
+    {"en": "building", "ja": "建物"},
+    {"en": "indoor", "ja": "室内"},
+    {"en": "outdoor", "ja": "屋外"},
+    {"en": "sky", "ja": "空"},
+    {"en": "sea", "ja": "海"},
+    {"en": "mountain", "ja": "山"},
+    {"en": "bird", "ja": "鳥"},
+    {"en": "book", "ja": "本"},
+    {"en": "computer", "ja": "コンピューター"},
+    {"en": "phone", "ja": "電話"},
+    {"en": "road", "ja": "道路"},
+    {"en": "chair", "ja": "椅子"},
+    {"en": "art", "ja": "アート"}
+  ]
+}

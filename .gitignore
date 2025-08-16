@@ -88,3 +88,21 @@ crashlytics-build.properties
 
 # Custom
 /Assets/onnx/*.onnx
+
+# Python仮想環境
+.venv/
+venv/
+env/
+.env
+
+# Python関連
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+pip-log.txt
+pip-delete-this-directory.txt
+*.egg-info/
+dist/
+build/
