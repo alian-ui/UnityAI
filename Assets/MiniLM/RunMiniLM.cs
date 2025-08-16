@@ -29,23 +29,29 @@ public class RunMiniLM : MonoBehaviour
 
     void Start()
     {
+        // 以下3つは必須の前処理
         tokens = vocabAsset.text.Split("\r\n");
 
         engine = CreateMLModel();
 
         dotScore = CreateDotScoreModel();
 
+        // ここから編集する
+        // といっても、string1とstring2の内容を変更するだけでOK
         var tokens1 = GetTokens(string1);
         var tokens2 = GetTokens(string2);
 
         using Tensor<float> embedding1 = GetEmbedding(tokens1);
         using Tensor<float> embedding2 = GetEmbedding(tokens2);
 
+        // 2つの文章の類似度スコア(0~1)を計算・出力する
         float score = GetDotScore(embedding1, embedding2);
+        // 以降、スコアを使ったコードを追加する
 
         Debug.Log("Similarity Score: " + score);
     }
 
+    // 内積を計算して類似度スコアを取得
     float GetDotScore(Tensor<float> A, Tensor<float> B)
     {
         dotScore.Schedule(A, B);

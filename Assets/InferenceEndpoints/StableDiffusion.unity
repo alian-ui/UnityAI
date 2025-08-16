@@ -241,6 +241,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 24677113a721def4280fe329405eb022, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  apiKey: YOUR_HUGGING_FACE_API_KEY_HERE
+  endpoint: https://ol4bvx4dz46exugi.us-east-1.aws.endpoints.huggingface.cloud
+  prompt: Astronaut riding a horse
 --- !u!1 &1608120221
 GameObject:
   m_ObjectHideFlags: 0

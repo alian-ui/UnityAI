@@ -390,7 +390,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 493bc0a17c79f124fb0996570954ea57, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  modelAsset: {fileID: 5022602860645237092, guid: 5481613811ef8014db23854620f5cde9, type: 3}
+  modelAsset: {fileID: 5022602860645237092, guid: cabe9907ac4ce4b179308db7c4c5dce6, type: 3}
   vocabAsset: {fileID: 4900000, guid: 9b52af7c87e229c4792af8963abb10fe, type: 3}
   string1: That is a happy person
   string2: That is a happy dog
